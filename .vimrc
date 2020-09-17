@@ -18,13 +18,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'yggdroot/indentline'
 
 
-
-"Plugin 'davidhalter/jedi-vim'
 Plugin 'tmhedberg/SimpylFold'
-Plugin 'valloric/YouCompleteMe'
-Plugin 'rdnetto/YCM-Generator'
 Plugin 'rhysd/open-pdf.vim'
-" Plugig 'davidhalter/jedi-vim'
 
  "
 " plugin on GitHub repo
@@ -47,7 +42,6 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'takac/vim-spotifysearch'
 Bundle 'matze/vim-tex-fold'
-Bundle 'broesler/jupyter-vim'
 Bundle 'lervag/vimtex'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
