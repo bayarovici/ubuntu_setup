@@ -1,4 +1,5 @@
 sudo apt install curl
+sudo apt-get install vim-gtk3 -y
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 git clone https://github.com/tmux-plugins/tmux-resurrect scripts/config.sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
