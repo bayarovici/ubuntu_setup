@@ -1,6 +1,9 @@
 #https://gist.github.com/amir-saniyan/b3d8e06145a8569c0d0e030af6d60bea
 
 
+#Configure jupyter notebooks without pain
+#https://fcollonval.medium.com/conda-environments-in-jupyter-ecosystem-without-pain-e9fab3992fb7
+
 sudo apt install curl
 sudo apt-get install vim-gtk3 -y
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
